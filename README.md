@@ -4,3 +4,5 @@
 ## Description 
 This project is just an exercise with JavaScript. Everytime you click the "Utwórz element" button the **div** appears. Every fifth div it changes from a **_black square_** to a **_white circle_**. 
 I used JS, HTML and CSS. 
+
+## Thank you for your time 🐸
